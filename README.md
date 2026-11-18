@@ -2,7 +2,9 @@
 
 Strumento di studio per la prova scritta del concorso di **Istruttore di Vigilanza del Comune di Poggibonsi** (Determinazione n. 126/AG del 10/11/2026).
 
-Apri `index.html` nel browser: non serve installare niente né avere un server. Funziona anche da telefono e salva i progressi nel browser del dispositivo.
+**Online:** https://andreagalanti91.github.io/vigile/ (pubblicato da GitHub Pages a ogni push, vedi `.github/workflows/pages.yml`).
+
+In locale basta aprire `index.html` nel browser: non serve installare niente né avere un server. Funziona anche da telefono e salva i progressi nel browser del dispositivo.
 
 ## Cosa contiene
 
